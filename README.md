@@ -1,5 +1,7 @@
 # How fast is `llm_classify`?
 
+Benchmarking Phoenix Arize [`llm_classify` utility](https://docs.arize.com/phoenix/api/evals#phoenix.evals.llm_classify) 
+
 ## Setup
 > pip intsall -r requirements.txt
 
