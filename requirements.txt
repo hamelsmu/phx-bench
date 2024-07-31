@@ -1,0 +1,4 @@
+fastcore
+fastprogress
+openai
+arize-phoenix[evals]
