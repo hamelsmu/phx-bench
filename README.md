@@ -5,14 +5,17 @@ Benchmarking Phoenix Arize [`llm_classify` utility](https://docs.arize.com/phoen
 ## Setup
 > pip intsall -r requirements.txt
 
-## Phoenix benchmark w/ `llm_classify`
+
+## Run Benchmarks
+
+### Phoenix benchmark w/ `llm_classify`
 
 ```bash
 python phx.py
 ```
 > Time for llm_classify: 192.21098494529724
 
-## Hamel's handrolled thing with `threadpool`
+### Hamel's handrolled thing with `threadpool`
 
 ```bash
 python hamel.py
