@@ -3,6 +3,7 @@
 Benchmarking Phoenix Arize [`llm_classify` utility](https://docs.arize.com/phoenix/api/evals#phoenix.evals.llm_classify) 
 
 ## Setup
+> gh repo clone hamelsmu/phx-bench
 > pip intsall -r requirements.txt
 
 
