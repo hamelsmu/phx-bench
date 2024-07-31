@@ -1,4 +1,4 @@
-# How fast is `llm_classify`?
+## How fast is `llm_classify`?
 
 Benchmarking Phoenix Arize [`llm_classify` utility](https://docs.arize.com/phoenix/api/evals#phoenix.evals.llm_classify) 
 
