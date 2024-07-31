@@ -1,13 +1,16 @@
+# How fast is `llm_classify`?
+
+## Setup
 > pip intsall -r requirements.txt
 
-## Phoenix benchmark
+## Phoenix benchmark w/ `llm_classify`
 
 ```bash
 python phx.py
 ```
 > Time for llm_classify: 192.21098494529724
 
-## Hamel's handrolled thing
+## Hamel's handrolled thing with `threadpool`
 
 ```bash
 python hamel.py

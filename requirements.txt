@@ -1,4 +1,5 @@
-fastcore
-fastprogress
-openai
-arize-phoenix[evals]
+fastcore==1.6.1
+fastprogress==1.0.3
+openai==1.35.14
+arize-phoenix==4.16.1
+arize-phoenix-evals== 0.14.0
