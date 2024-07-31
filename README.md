@@ -3,9 +3,14 @@
 Benchmarking Phoenix Arize [`llm_classify` utility](https://docs.arize.com/phoenix/api/evals#phoenix.evals.llm_classify) 
 
 ## Setup
-> gh repo clone hamelsmu/phx-bench
-> pip intsall -r requirements.txt
+```bash
+gh repo clone hamelsmu/phx-bench
+pip intsall -r requirements.txt
+```
 
+## Verdict
+
+`llm_classify` is 3x slower than using threadpool on my own.
 
 ## Run Benchmarks
 
